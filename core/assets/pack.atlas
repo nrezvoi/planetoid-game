@@ -1,0 +1,360 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+space
+  rotate: false
+  xy: 1, 543
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 61
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+planet_big
+  rotate: false
+  xy: 643, 725
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+planet_grass
+  rotate: false
+  xy: 643, 425
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+success_bar
+  rotate: false
+  xy: 1, 50
+  size: 185, 9
+  orig: 185, 9
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 943, 981
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+e_slot_sel
+  rotate: false
+  xy: 643, 389
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+e_slot
+  rotate: false
+  xy: 1, 16
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mix
+  rotate: false
+  xy: 943, 964
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+hut
+  rotate: false
+  xy: 987, 998
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+metal
+  rotate: false
+  xy: 1, 1
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+atmosphere
+  rotate: false
+  xy: 643, 367
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+planet
+  rotate: false
+  xy: 679, 403
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+organism
+  rotate: false
+  xy: 35, 31
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+tool
+  rotate: false
+  xy: 943, 944
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 643, 344
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+slime
+  rotate: false
+  xy: 701, 406
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+gas
+  rotate: false
+  xy: 58, 31
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 943, 924
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+hero_idle_left
+  rotate: false
+  xy: 1014, 1013
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+hero_idle_right
+  rotate: false
+  xy: 1014, 1001
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+e_cold
+  rotate: false
+  xy: 987, 981
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+e_grav
+  rotate: false
+  xy: 985, 964
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+e_heat
+  rotate: false
+  xy: 964, 947
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+e_rock
+  rotate: false
+  xy: 643, 327
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 665, 368
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+small_bar
+  rotate: false
+  xy: 188, 54
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+animal
+  rotate: false
+  xy: 679, 391
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+plants
+  rotate: false
+  xy: 720, 409
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ore
+  rotate: false
+  xy: 76, 34
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+food
+  rotate: false
+  xy: 35, 17
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+hearth
+  rotate: false
+  xy: 215, 54
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mountains
+  rotate: false
+  xy: 981, 954
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+e_slot_arrow
+  rotate: false
+  xy: 736, 415
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 20, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+hero_push_up
+  rotate: false
+  xy: 1014, 990
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hero_push_left
+  rotate: false
+  xy: 1004, 985
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+hero_push_down
+  rotate: false
+  xy: 1014, 980
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+hero_push_right
+  rotate: false
+  xy: 943, 911
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+e_list_arrow
+  rotate: false
+  xy: 643, 316
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+a_asteroid
+  rotate: false
+  xy: 91, 41
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 51, 22
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+hud_arrow
+  rotate: false
+  xy: 237, 55
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+arrow_right
+  rotate: false
+  xy: 981, 947
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+e_cold_tiny
+  rotate: false
+  xy: 754, 418
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+e_grav_tiny
+  rotate: false
+  xy: 943, 904
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+e_heat_tiny
+  rotate: false
+  xy: 643, 309
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+e_rock_tiny
+  rotate: false
+  xy: 652, 320
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+bar_mark
+  rotate: false
+  xy: 660, 358
+  size: 1, 7
+  orig: 1, 7
+  offset: 0, 0
+  index: -1
+
+pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+planet_atmosphere
+  rotate: false
+  xy: 1, 1
+  size: 398, 398
+  orig: 398, 398
+  offset: 0, 0
+  index: -1
